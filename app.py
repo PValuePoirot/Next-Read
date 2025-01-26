@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load the datasets
-books = pd.read_parquet('Books2.parquet')
+books = pd.read_parquet('Books.parquet')
 ratings = pd.read_csv('Ratings.csv')
 users = pd.read_csv('Users.csv')
 
