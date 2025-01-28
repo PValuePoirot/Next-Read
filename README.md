@@ -1,4 +1,7 @@
-# Next-Read
-A book recommendation app, built and deployed using Streamlit, designed to help users discover their next favorite read based on their preferences and interests.
+## Next-Read 📚
+A Book Recommendation App
 
-Visit app : [click_here]([url](https://next-read.streamlit.app/))
+Next-Read is a book recommendation app built and deployed using Streamlit. It helps users discover their next favorite read based on their preferences and interests.
+
+🔗 Visit the App
+[👉 Click Here to Try Next-Read](https://next-read.streamlit.app/)
